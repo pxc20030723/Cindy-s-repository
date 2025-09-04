@@ -1,2 +1,2 @@
-# Cindy-s-repository
+# Cindy_repository
 record my projects
